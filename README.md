@@ -1,2 +1,2 @@
 # Proyecto-de-Aula
-En este repositorio vamos a subir las tablas que se utilizarán en el proyecto de aula de Analítica 2
+Este es el repositorio del Proyecto de Aula propuesto en el curso de Analítica para la Toma de Decisiones de la Universidad de Antioquia en la carrera de Ingeniería Industrial. 
